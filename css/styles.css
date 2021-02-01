@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(245, 241, 241, 0.994);
+}
+hr{ 
+    border-style: solid none none;
+    border-width: thick;
+    height : 0px;
+   
+    border-color: grey;
+}
+h1,H3{
+    color: #03506f;
+    text-align: center;
+}
+
+.profile{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+.edu, .eduth, .edutd {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 10px;
+  }
+  .eduth, .edutd {
+    padding: 5px;
+  }
+  .eduth{
+   
+    background-color: gray;
+    width: 10px;
+  }
